@@ -3,7 +3,7 @@ Section: admin
 Priority: optional
 Maintainer: Juanma1980 <juanma1980@gmail.com>
 Uploaders: LliureX Team
-Build-Depends: 
+Build-Depends: debhelper (>= 7)
 Standards-Version: 4.4.1
 Homepage: https://brailleinstitute.org/freefont
 
