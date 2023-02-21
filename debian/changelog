@@ -1,3 +1,9 @@
+fonts-atkinson (1.1) focal; urgency=medium
+
+  * Remove TTF (not rendering well)
+
+ -- Juanma1980 <juanma1980@gmail.com>  Tue, 21 Feb 2023 10:48:58 +0100
+
 fonts-atkinson (1.0) focal; urgency=medium
 
   * Initial release
